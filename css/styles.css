@@ -15,4 +15,13 @@ a {
 	font-size: 32px;
 	text-align: center;
 	padding: 50px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	background-color: rgba(50,50,50,.5);
+	font-size: 35px;
+	color: white;
 }
